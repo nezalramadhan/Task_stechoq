@@ -1,5 +1,9 @@
 # Petunjuk dan penggunaan 
 
+cara menjalankan project : 
+1. install modules
+2. jalankan "npm run dev"
+
 cara Hit endpoint CRUD di postman :
 1. get (getAllTask) = http://localhost:3000/tasks
 2. get (getTaskById) = http://localhost:3000/tasks/:id
